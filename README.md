@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://emilianokosh.netlify.app/static/media/avatar1.59383aed.png | width=200)
+![Diseño sin título (21)](https://emilianokosh.netlify.app/static/media/avatar1.59383aed.png | width=200)
 
 <!--
 **monsterkosh/monsterkosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

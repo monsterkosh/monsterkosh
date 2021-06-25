@@ -2,6 +2,8 @@
 
 ![Diseño sin título (21)](https://emilianokosh.netlify.app/static/media/avatar1.59383aed.png | width=200)
 
+<img src="https://emilianokosh.netlify.app/static/media/avatar1.59383aed.png" width="200" height="200">
+
 <!--
 **monsterkosh/monsterkosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

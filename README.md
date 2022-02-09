@@ -13,10 +13,9 @@
 ```javascript
 let emilianoKosh = {
   country: "Argentina",
-  job: "Frontend Developer",
-  skills: [HTML5, CSS3, Javascript ES7]
-  tools: [React, Redux, React-Router, Boostrap, MaterialUI, Sass, Styled Components],
-  currentlyLearning: [NodeJs, MongoDB, Mongoose],
+  job: "Full Stack Developer",
+  skills: [HTML5, CSS3, Javascript ES7, TypeScript]
+  tools: [React, Node.js, MongoDB, Express, Nest.js, Docker],
   linkedIn: "https://www.linkedin.com/in/emilianokosh-developer",
   portfolio: "https://emilianokosh.netlify.app",
 }

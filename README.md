@@ -14,8 +14,8 @@
 let emilianoKosh = {
   country: "Argentina",
   job: "Full Stack Developer",
-  skills: [HTML5, CSS3, Javascript, TypeScript]
+  skills: [HTML5, CSS3, Javascript, TypeScript],
   tools: [React, Node.js, MongoDB, Express, Nest.js, Docker],
-  linkedIn: "https://www.linkedin.com/in/emilianokosh-developer",
+  linkedIn: "https://www.linkedin.com/in/emilianokosh-developer"
 }
 ```

@@ -5,11 +5,17 @@
 
 ```javascript
 let emilianoKosh = {
+  name: "Emiliano Kosh",
   country: "Argentina",
   job: "Software Engineer",
-  company: "Intive",
-  skills: [Javascript, TypeScript, HTML5, CSS3, GCP],
-  tools: [Node.js, React, MongoDB, Express, Nest.js, Docker, Kubernetes, etc.],
-  linkedIn: "https://www.linkedin.com/in/emilianokosh-developer"
+  languages: ["Javascript", "TypeScript", "Bash"],
+  tools: ["Node.JS", "React.JS", "Express", "Nest.JS", "MongoDB", "Docker", "Kubernetes", ... more results],
+  cloudPlatforms: ["Google Cloud Platform", "Amazon Web Services"],
+  linkedIn: "https://www.linkedin.com/in/emilianokosh-developer",
+  developedPackages: {
+      "JSON-Multiplier": "https://www.npmjs.com/package/json-multiplier",
+      "Passworizer": "https://www.npmjs.com/package/passworizer"
+  }
 }
-```
+
+
